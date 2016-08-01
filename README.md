@@ -4,7 +4,7 @@
 项目说明：
 1、本项目针对23个JAVA设计模式编写简单的示例，后续将不断完善
 2、本项目参考了java设计模式（疯狂java联盟版）的部分代码，其版权信息如下：
-Copyright?2008 Angus Young
+Copyright@2008 Angus Young
 疯狂Java联盟：http://www.crazyit.org 
 
 编译信息：
